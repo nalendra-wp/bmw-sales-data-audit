@@ -85,4 +85,4 @@ Python · pandas · SciPy · scikit-learn · seaborn · matplotlib
 
 **Nalendra Whisnu Pinilih**
 Information Systems graduate, Universitas Dian Nuswantoro · BNSP-certified Associate Data Scientist
-[GitHub](https://github.com/nalendra-wp) · nalendrawp@gmail.com
+[GitHub](https://github.com/nalendra-wp) · nalendrawp@gmail.com 
